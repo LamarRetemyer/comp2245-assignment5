@@ -34,7 +34,7 @@ main {
     text-align: center;
     position: relative;
     z-index: 1;
-    margin-top: 100px; /* Adjust margin based on your needs */
+    margin-top: 100px;
 }
 
 #controls {
@@ -102,7 +102,7 @@ table, th, td {
 }
 
 th, td {
-    max-width: 150px; /* Adjust the maximum width of cells to prevent excessive stretching */
+    max-width: 150px;
     padding: 8px;
     text-align: left;
     background-color: rgba(0, 0, 0, 0.7);
